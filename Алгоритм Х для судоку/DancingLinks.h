@@ -3,7 +3,9 @@
 #include <string.h>
 #include <malloc.h>
 
-#define  P  3
+
+
+#define  P  3 //избавиться в будущем
 #define SUCCESS 0
 #define FAILURE 1
 
